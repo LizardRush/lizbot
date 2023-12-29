@@ -1,0 +1,4 @@
+LizardBot
+V1.0.0
+Security: Enabled
+Owner: Lizard Rush
